@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @raiyin.
 - 👀 I’m interested in everything, front-end, back-end, I like this .
-- 🌱 I’m currently learning react, vue, and .NET Core microservices a little.
+- 🌱 I’m currently working with react, vue, and .NET Core microservices.
 - 💞️ I’m looking for to collaborate on making this world a little better.
 - 📫 You can reach me by raiyin@ya.ru.
 
